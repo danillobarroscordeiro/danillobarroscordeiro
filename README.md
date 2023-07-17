@@ -15,9 +15,21 @@
 
 - 📫 How to reach me **danillo_barros@live.com**
 
-- 📄 Know about my experiences [2+ Data scientist and data analyst Using statistics to create methodologies which determines the consumer selling price of a product to define its tax basis. Creating reports and dashboards to monitoring companies tax obligations and calculating how much they must pay in taxes. 2+ Data science projects Building data solutions for business problems, close to real challenges faced by companies, using publicly available data from Data Science competitions, where I tackled the problem from the conception of the business challenge to the deployment of the trained algorithm in production, using Cloud Computing tools. 2+ Tax inspector I currently work monitoring operational movements of big companies that have tax breaks, veryfing if they are satisfying their tax obligations in order to get these benefits. In case of those conditions are not satisfied, I calculate how much companies own and send notifications charging these values. Business Analysis Manager (Dec 2020 - May 2021) I lead a business intelligence team that work creating and managing data of Alagoas Treasury Department in order to spot tax irregularities and frauds.](2+ Data scientist and data analyst Using statistics to create methodologies which determines the consumer selling price of a product to define its tax basis. Creating reports and dashboards to monitoring companies tax obligations and calculating how much they must pay in taxes. 2+ Data science projects Building data solutions for business problems, close to real challenges faced by companies, using publicly available data from Data Science competitions, where I tackled the problem from the conception of the business challenge to the deployment of the trained algorithm in production, using Cloud Computing tools. 2+ Tax inspector I currently work monitoring operational movements of big companies that have tax breaks, veryfing if they are satisfying their tax obligations in order to get these benefits. In case of those conditions are not satisfied, I calculate how much companies own and send notifications charging these values. Business Analysis Manager (Dec 2020 - May 2021) I lead a business intelligence team that work creating and managing data of Alagoas Treasury Department in order to spot tax irregularities and frauds.)
+- 📄 Know about my experiences
+  - 2+ Data scientist and data analyst
+    - Using statistics to create methodologies which determines the consumer selling price of a product to define its tax basis. Creating reports and dashboards to monitoring companies tax obligations and calculating how much they must pay in taxes.
+  - 2+ Data science projects
+    - Building data solutions for business problems, close to real challenges faced by companies, using publicly available data from Data Science competitions, where I tackled           the problem from the conception of the business challenge to the deployment of the trained algorithm in production, using Cloud Computing tools.
+      
+  - 2+ Tax inspector
+    - I currently work monitoring operational movements of big companies that have tax breaks, veryfing if they are satisfying their tax obligations in order to get these           
+    benefits. In case of those conditions are not satisfied, I calculate how much companies own and send notifications charging these values.
 
-- ⚡ Fun fact **Friends best series ever haha**
+    - Business Analysis Manager (Dec 2020 - May 2021)
+      - I lead a business intelligence team that work creating and managing data of Alagoas Treasury Department in order to spot tax irregularities and frauds.](2+ Data scientist         and data analyst Using statistics to create methodologies which determines the consumer selling price of a product to define its tax basis. Creating reports and     
+       dashboards to monitoring companies tax obligations and calculating how much they must pay in taxes. 
+
+- ⚡ Fun fact **Friends best series ever ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
