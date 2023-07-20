@@ -26,8 +26,7 @@
     benefits. In case of those conditions are not satisfied, I calculate how much companies own and send notifications charging these values.
 
     - Business Analysis Manager (Dec 2020 - May 2021)
-      - I lead a business intelligence team that work creating and managing data of Alagoas Treasury Department in order to spot tax irregularities and frauds.](2+ Data scientist         and data analyst Using statistics to create methodologies which determines the consumer selling price of a product to define its tax basis. Creating reports and     
-       dashboards to monitoring companies tax obligations and calculating how much they must pay in taxes. 
+      - I lead a business intelligence team that work creating and managing data of Alagoas Treasury Department in order to spot tax irregularities and frauds
 
 - ⚡ Fun fact **Friends best series ever ;)**
 
