@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danillobarroscordeiro" alt="danillobarroscordeiro" /></a> </p>
 
-- 🔭 I’m currently working on [High customers identification](https://github.com/danillobarroscordeiro/high_values_customer_identifications)
+- 🔭 I’m currently working on [Sagemaker_respiratory_classification](https://github.com/danillobarroscordeiro/sagemaker_respiratory_classification)
 
 - 🌱 I’m currently learning **Amazon Cloud (AWS), Google Cloud Plataform (CGP), Airflow, Machine learning models**
 
