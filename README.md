@@ -1,32 +1,39 @@
 <h1 align="center">Hi 👋, I'm Danillo Cordeiro</h1>
-<h3 align="center">A passionate data scientist and data analyst from Brazil</h3>
+<h3 align="center">A passionate data Scientist and Machine Learning Engineer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danillobarroscordeiro&label=Profile%20views&color=0e75b6&style=flat" alt="danillobarroscordeiro" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danillobarroscordeiro" alt="danillobarroscordeiro" /></a> </p>
 
-- 🔭 I’m currently working on [Sagemaker_respiratory_classification](https://github.com/danillobarroscordeiro/sagemaker_respiratory_classification)
+- 🔭 I’m currently working on [Negative Reviews Summarization](https://github.com/danillobarroscordeiro/topic_modelling_negative_reviews)
 
-- 🌱 I’m currently learning **Amazon Cloud (AWS), Google Cloud Plataform (CGP), Airflow, Machine learning models**
+- 🌱 I’m currently learning **MLOps, Deep Learning, NLP, Topic Modelling**
 
 - 👨‍💻 All of my projects are available at [https://github.com/danillobarroscordeiro](https://github.com/danillobarroscordeiro)
 
-- 💬 Ask me about **Python, R, machine learning models, Linux, Machine learning**
+- 💬 Ask me about **Python, SQL, AWS, Linux, Machine learning, Data visualization, Power BI**
 
 - 📫 How to reach me **danillo_barros@live.com**
 
 - 📄 Know about my experiences
-  - 2+ Data scientist and data analyst
-    - Using statistics to create methodologies which determines the consumer selling price of a product to define its tax basis. Creating reports and dashboards to monitoring companies tax obligations and calculating how much they must pay in taxes.
-  - 2+ Data science projects
-    - Building data solutions for business problems, close to real challenges faced by companies, using publicly available data from Data Science competitions, where I tackled           the problem from the conception of the business challenge to the deployment of the trained algorithm in production, using Cloud Computing tools.
-      
-  - 2+ Tax inspector
-    - I currently work monitoring operational movements of big companies that have tax breaks, veryfing if they are satisfying their tax obligations in order to get these           
-    benefits. In case of those conditions are not satisfied, I calculate how much companies own and send notifications charging these values.
+    - 4+ Data scientist and data analyst
+      - Enhanced reports and dashboards with Python, SQL, and Excel to accurately calculate tax liabilities for
+  large corporations receiving tax breaks, boosting tax collection by over U$5 million
+      - Designed a Python and SQL script to update aggregate margins for various products, enhancing tax base
+  computations and resulting in a tax collection increase of over U$7 million (more than 10% per year).
+      - Implemented a statistical methodology applying R and SQL to establish a new tax base for gasoline, diesel
+  oil, kerosene, and ethanol, based on consumer selling prices at gas stations, resulting in at least a 20%
+  increase in tax collection for these products.
+    - Developed a monitoring script applying Python, SQL and Excel to track tax evasion by companies
+  purchasing wheat flour, recovering approximately U$3 million in unpaid taxes to date.
+    - Conducted studies and proposed statistical methodology to reduce tax breaks of the wheat sector,
+  increasing annual tax revenue by up to U$15 million (more than 20% per year)      
 
-    - Business Analysis Manager (Dec 2020 - May 2021)
-      - I lead a business intelligence team that work creating and managing data of Alagoas Treasury Department in order to spot tax irregularities and frauds
+  - Business Analysis Manager (Dec 2020 - May 2021)
+    - Led a team in developing an Oracle OBIEE data mart and dashboard to identify discrepancies in
+  companies' tax returns,leading to over U$3 million in tax notifications, and collections.
+    - Managed the creation of an Oracle OBIEE data mart focused on company tax debts, resulting in a
+  significant reduction of over 100% in the time required for tax debt calculations.
 
 - ⚡ Fun fact **Friends best series ever ;)**
 
