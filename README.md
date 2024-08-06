@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danillo Cordeiro</h1>
-<h3 align="center">A passionate data Scientist and Machine Learning Engineer from Brazil</h3>
+<h3 align="center">A passionate Data Scientist and Machine Learning Engineer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danillobarroscordeiro&label=Profile%20views&color=0e75b6&style=flat" alt="danillobarroscordeiro" /> </p>
 
@@ -17,23 +17,23 @@
 
 - 📄 Know about my experiences
     - 4+ Data scientist and data analyst
-      - Enhanced reports and dashboards with Python, SQL, and Excel to accurately calculate tax liabilities for
-  large corporations receiving tax breaks, boosting tax collection by over U$5 million
-      - Designed a Python and SQL script to update aggregate margins for various products, enhancing tax base
-  computations and resulting in a tax collection increase of over U$7 million (more than 10% per year).
-      - Implemented a statistical methodology applying R and SQL to establish a new tax base for gasoline, diesel
-  oil, kerosene, and ethanol, based on consumer selling prices at gas stations, resulting in at least a 20%
-  increase in tax collection for these products.
-    - Developed a monitoring script applying Python, SQL and Excel to track tax evasion by companies
-  purchasing wheat flour, recovering approximately U$3 million in unpaid taxes to date.
-    - Conducted studies and proposed statistical methodology to reduce tax breaks of the wheat sector,
-  increasing annual tax revenue by up to U$15 million (more than 20% per year)      
+        - Enhanced reports and dashboards with Python, SQL, and Excel to accurately calculate tax liabilities for
+        large corporations receiving tax breaks, boosting tax collection by over U$5 million
+        - Designed a Python and SQL script to update aggregate margins for various products, enhancing tax base
+        computations and resulting in a tax collection increase of over U$7 million (more than 10% per year).
+        - Implemented a statistical methodology applying R and SQL to establish a new tax base for gasoline, diesel
+        oil, kerosene, and ethanol, based on consumer selling prices at gas stations, resulting in at least a 20%
+        increase in tax collection for these products.
+        - Developed a monitoring script applying Python, SQL and Excel to track tax evasion by companies
+        purchasing wheat flour, recovering approximately U$3 million in unpaid taxes to date.
+        - Conducted studies and proposed statistical methodology to reduce tax breaks of the wheat sector,
+        increasing annual tax revenue by up to U$15 million (more than 20% per year)      
 
-  - Business Analysis Manager (Dec 2020 - May 2021)
-    - Led a team in developing an Oracle OBIEE data mart and dashboard to identify discrepancies in
-  companies' tax returns,leading to over U$3 million in tax notifications, and collections.
-    - Managed the creation of an Oracle OBIEE data mart focused on company tax debts, resulting in a
-  significant reduction of over 100% in the time required for tax debt calculations.
+    - Business Analysis Manager (Dec 2020 - May 2021)
+        - Led a team in developing an Oracle OBIEE data mart and dashboard to identify discrepancies in
+        companies' tax returns,leading to over U$3 million in tax notifications, and collections.
+        - Managed the creation of an Oracle OBIEE data mart focused on company tax debts, resulting in a
+        significant reduction of over 100% in the time required for tax debt calculations.
 
 - ⚡ Fun fact **Friends best series ever ;)**
 
