@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danillo Barros</h1>
-<h3 align="center">A passionate Data Scientist and Machine Learning Engineer from Brazil</h3>
+<h3 align="center">A passionate Data Scientist from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danillobarroscordeiro&label=Profile%20views&color=0e75b6&style=flat" alt="danillobarroscordeiro" /> </p>
 
